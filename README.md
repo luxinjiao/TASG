@@ -1,19 +1,9 @@
 # TASG
+The implementation of the Topology-Aware Superpoint Graph (TASG) network for large-scale point cloud segmentation.
+## Acknowledgement
 
+Our implementation is inspired by the following excellent works:
 
-## Citation
+- [Superpoint Transformer (drprojects/superpoint_transformer)](https://github.com/drprojects/superpoint_transformer)
+- [RepSurf (hancyran/RepSurf)](https://github.com/hancyran/RepSurf)
 
-> Robert, D., Raguet, H., & Landrieu, L. (2023).
-> Efficient 3D Semantic Segmentation with Superpoint Transformer.
-> *Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)*.
-
-BibTeX:
-
-```bibtex
-@article{robert2023spt,
-  title={Efficient 3D Semantic Segmentation with Superpoint Transformer},
-  author={Robert, Damien and Raguet, Hugo and Landrieu, Loic},
-  journal={Proceedings of the IEEE/CVF International Conference on Computer Vision},
-  year={2023}
-}
-```
